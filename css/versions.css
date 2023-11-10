@@ -53,7 +53,7 @@ body.clinic_version .grd1 {
     border: #39b49a;
     background: -moz-linear-gradient(left, #39b49a 0%, #1d86df 100%);
     background: -webkit-linear-gradient(left, #39b49a 0%, #1d86df 100%);
-    background: linear-gradient(to right, #39b49a 0%, #1d86df 100%);
+    background: linear-gradient(to right, #44ff00 0%, #007912 100%);
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#39b49a', endColorstr='#1d86df', GradientType=1);
 }
 
@@ -78,7 +78,7 @@ body.clinic_version .grd1:focus {
     background: #1d86df;
     background: -moz-linear-gradient(left, #1d86df 0%, #39b49a 100%);
     background: -webkit-linear-gradient(left, #1d86df 0%, #39b49a 100%);
-    background: linear-gradient(to right, #1d86df 0%, #39b49a 100%);
+    background: linear-gradient(to right, #66ff00 0%, #39b49a 100%);
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#1d86df', endColorstr='#39b49a', GradientType=1);
 }
 

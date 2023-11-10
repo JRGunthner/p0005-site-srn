@@ -59,7 +59,7 @@ GRADIENTS
 .grd1:focus {
     background-position: 100px;
     color: #ffffff;
-    background: #2750ff;
+    background: #44ff27;
     background: -moz-linear-gradient(left, #2750ff 0%, #db00ce 100%);
     background: -webkit-linear-gradient(left, #2750ff 0%, #db00ce 100%);
     background: linear-gradient(to right, #2750ff 0%, #db00ce 100%);
